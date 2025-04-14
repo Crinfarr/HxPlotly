@@ -1,0 +1,14 @@
+{
+    "classPath": "src",
+    "contributors": ["Crinfarr"],
+    "dependencies": {},
+    "description": "Haxe externs for Plotly",
+    "documentation": {},
+    "license": "GPL",
+    "main": "",
+    "name": "HxPlotly",
+    "releasenote": "",
+    "tags": [],
+    "url": "https://github.com/crinfarr/hxplotly",
+    "version": "0.0.0"
+}
