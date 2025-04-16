@@ -5,7 +5,7 @@ import js.html.Node;
 
 
 typedef FrameDataT = {
-	data:Array<Any>,
+	data:Array<{}>,
 	layout:{},
 	config:{},
 	frames:Array<Any>
