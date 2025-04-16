@@ -1,1 +1,4 @@
-build
+build/*
+!build/js
+build/js/*
+!build/js/index.html
